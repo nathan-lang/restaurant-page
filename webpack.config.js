@@ -12,7 +12,7 @@ module.exports = {
   mode: "development",
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Output Management",
+      title: "sweet home.",
     }),
   ],
   module: {
