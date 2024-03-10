@@ -15,7 +15,8 @@ function navbar() {
   bar.style.background = "#C8B8DB";
   bar.style.zIndex = "1";
   const logo = document.createElement("img");
-  logo.src = "../src/sweethomenew.png";
+  logo.src =
+    "https://nathan-lang.github.io/restaurant-page/src/sweethomenew.png";
   logo.style.height = "150px";
   const navSection = document.createElement("div");
   navSection.style.display = "flex";
